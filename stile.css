@@ -1,3 +1,27 @@
-body {
-background-color: aquamarine;
+body {background-color: aquamarine;}
+ul {
+  list-style-position: inside;
+  margin: 10px 0;
+  margin-left: 30px;
+  padding: 10px 0;
+  max-width: 600px;
+}
+li {
+  padding-left: 10px;
+}
+body > ul > li {
+/*  border-bottom: 2px solid black;*/
+  padding: 20px 0;
+  padding-left: 10px;
+}
+body > ul > li:last-child {
+/*  border-bottom: none;*/
+}
+li + li {
+  border-top: 1px solid black;
+}
+body > ul > li li {
+/*  border-bottom: 2px solid black;*/
+  padding: 5px 0;
+  padding-left: 10px;
 }
