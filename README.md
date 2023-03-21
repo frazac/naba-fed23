@@ -6,4 +6,15 @@ Welcome!
 [frazac/naba-fed23 @GitHub Pages](https://frazac.github.io/naba-fed23/)
 
 ## Students repositories:
-[username/fed23-nomeDiBattesimo](https://username.github.io/fed23-nomeDiBattesimo/)
+[username/fed23nomeDiBattesimo](https://username.github.io/fed23-nomeDiBattesimo/)
+
+Rosaria   Rosesela-VY
+ElenaMa   Qupidart
+Marilù    marilu23fal
+ElenaMi   Ryualba
+Giorgia   giorgiaiurilli
+Chiara    chiaraopizzi
+Michele   mikewolf95
+Domenico  imod55
+Matteo    matteocataldonaba
+Chiara    ChiaraPezzimenti
