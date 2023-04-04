@@ -8,8 +8,8 @@ Welcome!
 ## Students repositories:
 [username/fed23nomeDiBattesimo](https://username.github.io/fed23nomeDiBattesimo/)
 
-Rosaria   [Rosesela-VY] (https://Rosesela-VY.github.io/fed23rosaria)  
-ElenaMa   [Qupidart] (https://Qupidart.github.io/fed23elenaMa)  
+Rosaria   [Rosesela-VY] (https://github.com/Rosesela-VY)  
+ElenaMa   [Qupidart] (https://github.com/Qupidart)  
 Marilù    [marilu23fal] (https://marilu23fal.github.io/fed23marilu)  
 ElenaMi   [Ryualba] (https://Ryualba.github.io/fed23elenaMi)  
 Giorgia   [giorgiaiurilli] (https://giorgiaiurilli.github.io/fed23giorgia)  
