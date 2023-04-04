@@ -8,33 +8,33 @@ Welcome!
 ## Students repositories:
 [username/fed23nomeDiBattesimo](https://username.github.io/fed23nomeDiBattesimo/)
 
-Rosaria   
+Rosaria  
 [Github](https://github.com/Rosesela-VY)  
   
-ElenaMa   
+ElenaMa  
 [Github](https://github.com/Qupidart)  
   
-Marilù    
+Marilù  
 [Github](https://github.com/marilu23fal)  
   
-ElenaMi   
+ElenaMi  
 [Github](https://github.com/Ryualba)  
   
-Giorgia   
+Giorgia  
 [Github](https://github.com/giorgiaiurilli)  
   
-Chiara    
+Chiara  
 [Github](https://github.com/chiaraopizzi)  
   
-Michele   
+Michele  
 [Github](https://github.com/mikewolf95)  
   
 Domenico  
 [Github](https://github.com/imod55)  
   
-Matteo    
+Matteo  
 [Github](https://github.com/matteocataldonaba)  
   
-Chiara    
+Chiara  
 [Github](https://github.com/ChiaraPezzimenti)  
   
