@@ -37,4 +37,7 @@ Matteo
   
 Chiara  
 [Github](https://github.com/ChiaraPezzimenti)  
-  
+
+Miriam  
+[Github](https://github.com/mimirossi)  
+
